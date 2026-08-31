@@ -1,9 +1,9 @@
 {
   "version": "1.13",
   "size": 1720320,
-  "sha256": "3580a5c4e4c36efb915a62895eabbb7dceaea8e148fd25bdedf995eb4a80e515",
-  "sig": "MEQCICXle7YlSyfgXbC01ZNddyLPFQPpDlwdmLeH2TO3F7+xAiAIwJmuhtY7aAFzWc3aFC/JOA9IY/gYTcxqnAvbfasfwg==",
-  "sig2": "MEUCIGCT8BoQkzVmyHyCRtCimYGCSak4mxNrbTp6m9Zq60cMAiEA0Qvx8blV4OrmCoqu5bGix7OrzymrWECLTnz3R9WVO78=",
+  "sha256": "ce01a31030f68ba985f43f02003e72f883470b8c6abddadc1ca325ae4ae8e22d",
+  "sig": "MEYCIQDn2c1XCQMff7vsOxU0q09yeh2zxrsFB6YoZd92msEYIQIhAJPAgejbowxPuWuP96H9ImU4sodV9i4Hbb4SxVif29LD",
+  "sig2": "MEQCIEyk+cagHY6/27cKETduLF25JiXS7uxl1scwbHcF0dWrAiBHKsTT3cGsGvsUgIawjx/6TYe8eBMv8w90+WQamphseg==",
   "enc_size": 1720348,
-  "bin": "https://github.com/corsano-nikuczer/5g_hub_fw-releases/releases/download/v1.13/firmware.bin"
+  "bin": "https://raw.githubusercontent.com/corsano-nikuczer/5g_hub_fw-releases/main/firmware.bin"
 }
