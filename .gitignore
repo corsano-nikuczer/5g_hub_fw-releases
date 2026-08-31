@@ -1,0 +1,4 @@
+# Le binaire est publie en asset de Release, pas commite :
+# un depot git conserve chaque version a jamais.
+firmware.bin
+archive/

@@ -1,8 +1,0 @@
-{
-  "version": "1.8",
-  "size": 1720320,
-  "sha256": "df6dd7a0bc1d8abe3b89bbdeb4d76f8fd20919df1246f7b3e29bc4502fa25e45",
-  "sig": "MEQCIDHJYOxEnxubS32JeGdH6wW/oKLHkHLhM2v3ApGeb5plAiBaiA9qZQcnsruQCRoD9nsp68QTTCo9w0TqppG+9B/daw==",
-  "enc_size": 1720348,
-  "bin": "firmware.bin"
-}

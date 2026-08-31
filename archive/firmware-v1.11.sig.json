@@ -1,8 +1,0 @@
-{
-  "version": "1.11",
-  "size": 1720320,
-  "sha256": "fccb43fb3a92783aeaf6881881808856940f4dc56b5d17db6d98163e0260ac35",
-  "sig": "MEYCIQD25rASnm3h1WG+uDOSQj+kD4Ctv6e2iAl29wEU4sxTDgIhAJJfjCMxDVN0D6BWBRchKQyQQyzW2lVGVhfgUp4N84Mo",
-  "enc_size": 1720348,
-  "bin": "https://raw.githubusercontent.com/corsano-nikuczer/5g_hub_fw-releases/main/firmware.bin"
-}
